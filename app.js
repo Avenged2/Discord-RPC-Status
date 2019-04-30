@@ -1,13 +1,13 @@
 const client = require('discord-rich-presence')('572764816914251796');
  
-var header = "Aktualnie:";
-var description = "Odpoczywam";
+var header = "Actually:";
+var description = "Lorem Ipsum";
 var LargeImage = "av";
-var largeImageTxt = "apollo-mta.pl";
+var largeImageTxt = "Lorem Ipsum";
 
 client.updatePresence({
   details: header,
-  state: description, // aktualny filmor
+  state: description,
   startTimestamp: Date.now(),
   largeImageKey: LargeImage,
   largeImageText: largeImageTxt,
