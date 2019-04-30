@@ -1,4 +1,4 @@
-const client = require('discord-rich-presence')('CLIENT APP ID');
+const client = require('discord-rich-presence')('YOUR CLIENT APP ID');
  
 var header = "Actually:";
 var description = "Lorem Ipsum";
