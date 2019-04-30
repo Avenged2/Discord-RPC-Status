@@ -7,10 +7,12 @@
 
 3. Visit to webpage (https://discordapp.com/developers) and create Application 
 
-4. Open file (app.js) and configure this to you
+4. Write command 'npm i discord-rich-presence' in your Node console.
 
-5. Get Client ID from your Apps (p. 3) and paste in first line.
+5. Open file (app.js) and configure this to you
 
-6. Write in console command "node app.js".
+6. Get Client ID from your Apps (p. 3) and paste in first line.
 
-7. Finish installation app have fun use it!
+7. Write in console command "node app.js".
+
+8. Finish installation app have fun use it!
